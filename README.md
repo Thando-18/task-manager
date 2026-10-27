@@ -2,7 +2,7 @@
 
 A small Laravel + MySQL application to create, view, edit and delete tasks.
 
-**Live demo:** _<add your Railway URL>_
+**Live demo:** Not available (free hosting limits). Run it locally using the steps below.
 
 ## Features
 - Add a task (title, description, due date, status)
